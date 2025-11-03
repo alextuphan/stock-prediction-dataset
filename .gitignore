@@ -1,6 +1,3 @@
-# Stock data folder
-stock_data/
-
 # Python
 __pycache__/
 *.py[cod]
