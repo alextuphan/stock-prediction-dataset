@@ -2,6 +2,8 @@
 
 A simple tool to crawl historical stock trading data for Vietnam's VN30 index (30 major stocks) from VNDirect API.
 
+**GitHub Repository**: https://github.com/alextuphan/stock-prediction-dataset
+
 ## Quick Start
 
 ```bash
